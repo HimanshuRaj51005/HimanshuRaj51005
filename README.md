@@ -2,7 +2,7 @@
 
 <p align="center">
   🌸 Recent 12th Graduate | 🎯 JEE Aspirant <br>
-  💻 Self-Learning Code | 🎮 Gamer | 📺 Anime Enthusiast
+  Self-Learning Code | Gamer | Anime Enthusiast
 </p>
 
 ---
@@ -22,7 +22,6 @@
 ### 🛠️ Tech Stack (Learning & Using)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
