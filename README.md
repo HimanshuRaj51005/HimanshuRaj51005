@@ -19,9 +19,27 @@
 
 ---
 
-## 🛠 Tech & Tools I’ve Worked With
+### 🛠️ Tech Stack (Learning & Using)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
+</p>
 
-### **Core Stack**
+---
+
+### 🚀 Major Project
+
+#### **Phigros Phi-Plugin Setup via TRSS Yunzai**
+> A full-on **Mandarin-docs survival project** 🏕 where I integrated the Phi plugin with Yunzai TRSS, configured Discord bot automation, and linked TapTap International APIs for accessing Phigros cloud data.  
+>  
+> **Outcome:** Created a reliable, fast, and CN-community-maintained solution for accessing updated Phigros data internationally.
+
+---
+
+### 🏷️ Project Tech Badges
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
@@ -29,31 +47,9 @@
 ![API Integration](https://img.shields.io/badge/API%20Integration-FF6F00?style=for-the-badge&logo=swagger&logoColor=white)
 ![TRSS Yunzai](https://img.shields.io/badge/TRSS%20Yunzai-2E86C1?style=for-the-badge&logo=wechat&logoColor=white)
 ![phi-plugin](https://img.shields.io/badge/phi--plugin-FF69B4?style=for-the-badge&logo=music&logoColor=white)
-
----
-
-### **Supporting Tools**
-![Virtual Machine](https://img.shields.io/badge/VMware/VirtualBox-607D8B?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Windows ISO](https://img.shields.io/badge/Windows%20ISO-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Network Debugging](https://img.shields.io/badge/Network%20Debugging-4CAF50?style=for-the-badge&logo=wireshark&logoColor=white)
-![API Requests](https://img.shields.io/badge/API%20Requests-FF5722?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### **Project Type**
-![Bot Automation](https://img.shields.io/badge/Bot%20Automation-FFB300?style=for-the-badge&logo=robotframework&logoColor=white)
-![Game Data Fetching](https://img.shields.io/badge/Game%20Data%20Fetching-7E57C2?style=for-the-badge&logo=steam&logoColor=white)
-![Cross-Language Docs](https://img.shields.io/badge/CN%20Docs%20Survivor-FF1744?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-212121?style=for-the-badge&logo=gitbook&logoColor=white)
-
----
-
-### **Extra Flex**
-![Problem Solver](https://img.shields.io/badge/Problem%20Solver-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Guide Writer](https://img.shields.io/badge/Guide%20Writer-FF4081?style=for-the-badge&logo=markdown&logoColor=white)
 ![Mandarin Docs Survivor](https://img.shields.io/badge/Mandarin%20Docs%20Survivor-00897B?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Phigros Optimizer](https://img.shields.io/badge/Phigros%20Optimizer-6A1B9A?style=for-the-badge&logo=playstation&logoColor=white)
 
 ---
 
