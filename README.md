@@ -53,6 +53,29 @@
 
 ---
 
+### 📘 Upcoming Guide: **Phigros Phi-Plugin Setup (TRSS Yunzai)**  
+
+> *“Lost in Mandarin docs? I've been there. This guide will be your map.”* 🗺️  
+
+I'm currently working on a **beginner-friendly English guide** to help players and developers:  
+
+- 🌍 Set up **TRSS Yunzai** easily  
+- 🔗 Integrate the **Phi plugin** for Phigros  
+- 🤖 Configure a **Discord bot** for automation  
+- 🌐 Bind and manage **TapTap International** accounts  
+- 🧩 Understand the API calls & structure without deep-diving into Mandarin docs hell  
+
+Stay tuned — the guide will include:  
+- ✅ **Step-by-step instructions**  
+- ✅ **Screenshots & examples**  
+- ✅ **List of 20+ resources, repos & docs**  
+- ✅ Simplified explanations of all key commands  
+
+> **Release ETA:** *TBD — but I survived the forest, so you won’t have to.* 🌲✨
+
+---
+
+
 ### 🌱 Currently Learning
 
 - ✨ Data Structures & Algorithms (Python)
